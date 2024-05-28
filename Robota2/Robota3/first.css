@@ -12,3 +12,16 @@ h2{
    section{
     text-align: center;
    }
+
+h3{
+    text-align: left;
+}
+h4{
+    text-align: left;
+}
+div {
+text-align: center;
+}
+left{
+    text-align: left;
+}
