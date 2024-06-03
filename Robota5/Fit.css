@@ -1,0 +1,20 @@
+.section{
+    background-image: url(../Robota5/netflix-logo-png-2562\ 1.png);
+    
+}
+.Abb{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 1px;
+    padding-left: 210px;
+    padding-right: 100px;
+    width:213px ;
+    background-position: top left;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+.BBb{
+    padding: 100px  ;
+    display: flex;
+    justify-content: flex-start;
+}
