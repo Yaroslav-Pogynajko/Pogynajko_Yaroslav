@@ -1,0 +1,54 @@
+*{
+    background-color: black;
+}
+ @media (min-width:600px){
+  .first{
+    display: flex;
+    justify-content: center;
+    top: 17px;
+  } 
+.second{
+    top: 191px;
+    left: 238px;
+    right: 238px;
+    bottom: 4159px;
+    padding: 20px;
+    margin-bottom: auto;
+    display: flex;
+    justify-content: center;
+}   
+.third{
+    display: flex;
+    justify-content: center;
+}
+ }
+ @media (max-width:500px){
+    .four{
+        padding: 20px 30px;
+        margin-bottom: auto;
+        display: flex;
+        justify-content: center;
+    }
+    .five{
+        padding: 20px 30px;
+        margin-bottom: auto;
+        display: flex;
+        justify-content: center;  
+    }
+    .six{
+        display: flex;
+        left: 103px;
+        right: 103px;
+        justify-content: center;
+    }
+    .seven{
+        padding: ;
+        width: 1216.91px;
+        height: 651.85px;
+        top: 3434px;
+        left: 112px;
+        gap: 0px;
+        opacity: 0px;
+
+    }
+ }
