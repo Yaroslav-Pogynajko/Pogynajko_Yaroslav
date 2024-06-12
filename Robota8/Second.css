@@ -1,0 +1,44 @@
+Sehinde photo{
+    display: grid
+    grid-template-columns: 200px ;
+    grid-template-rows: auto; 
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+first photo{
+    display: grid
+    grid-template-columns: 400px ;
+    grid-template-rows: auto; 
+
+    About me{
+        display: grid
+        grid-template-columns: 400px ;
+        grid-template-rows: 100px;
+        padding: 100px 120px; 
+        :left 120px
+        
+    }
+    .Margin{
+     display: flex;
+     justify-content: flex-start;
+    }
+    .Goals{
+        display:grid ;
+        grid-template-columns: 300px;
+        grid-template-rows: 200px;
+        
+    second man{
+        display: grid;
+        grid-template-columns: 500px ;
+        grid-template-rows: 300px;
+    }
+    }

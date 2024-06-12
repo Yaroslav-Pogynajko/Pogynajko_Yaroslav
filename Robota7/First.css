@@ -42,11 +42,20 @@
         justify-content: center;
     }
     .seven{
-        padding: ;
+        padding:50% ;
         width: 1216.91px;
         height: 651.85px;
         top: 3434px;
         left: 112px;
+        gap: 0vw;
+        opacity: 0vw;
+
+    }
+    .eight{
+        padding: 60%;
+        width: 1440px;
+        height: 470px;
+        top: 4339px;
         gap: 0px;
         opacity: 0px;
 
