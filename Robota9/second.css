@@ -1,0 +1,21 @@
+.first{
+    display: flex;
+    justify-content: center;
+}
+.second{
+    display: flex;
+    justify-content: center;
+
+}
+.thir{
+    display: flex;
+    justify-content: center;
+    top: 2000px;
+}
+.fouth{
+    top: 5500px;
+
+}
+.five{
+    top: auto;
+}

@@ -36,9 +36,43 @@ first photo{
         grid-template-columns: 300px;
         grid-template-rows: 200px;
         
-    second man{
+    Second man{
         display: grid;
         grid-template-columns: 500px ;
         grid-template-rows: 300px;
+        grid-column-start: 1;
+        grid-column-end: 2;
     }
     }
+    Me Oreoluwa{
+display: grid;
+grid-area:inherit;
+grid-template-columns: 500px ;
+grid-template-rows: 300px;
+grid-template-areas: Me Oreoluwa;
+    }
+Header{
+    padding: 200px;
+    display:grid ;
+    grid-template-columns: auto ;
+    grid-template-rows: 1fr;
+    row-gap: 20px;
+
+}
+
+Text{
+    padding: 200px;
+    display:grid ;
+    grid-template-columns: repeat(6) minmax(100px;1fr) ;
+    grid-template-rows: 1fr;
+    row-gap: 20px;
+    
+}
+Goals1{
+    display:grid ;
+    grid-template-columns: repeat(6) minmax(100px;1fr) ;
+    grid-template-rows: 1fr;
+    row-gap: 20px;
+grid-column-start: 1;
+grid-column-end: 2;
+}
